@@ -5,6 +5,10 @@ Husain spent his Thanksgiving break reading about computer science and eating ch
 
 # A most WONDERFUL Read Me file containing all the answers
 
+Here you may some day find the answers to most of the questions in the universe!
+
+*by Gödel's incompleteness theorem, you can't answer every question in the universe
+
 Here you may some day find the answers to all the questions in the universe! 
 
 'The world is giving you answers each day. Learn to listen'
