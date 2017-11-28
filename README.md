@@ -1,3 +1,3 @@
-# A most excellent Read Me file
+# This ReadMe file tells the reader about the adventures of young man Husain Altaraif
 
-Here you may some day find the answers to all the questions in the universe! 
+Husain spent his Thanksgiving break reading about computer science and eating cheese. 
