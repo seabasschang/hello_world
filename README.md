@@ -8,6 +8,10 @@ Husain spent his Thanksgiving break reading about computer science and eating ch
 
 Here you may some day find the answers to all the questions in the universe! 
 
+
+(Hint: It's 42.)
+
 Hi. This is Kevin. 
+
 
 
