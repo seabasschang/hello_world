@@ -26,3 +26,5 @@ Answer: Do we really want to know?
 (Hint: It's 42.)
 
 Hi. This is Kevin. 
+
+"Wubba lubba dub dub" means "I am in great pain, please help me."
